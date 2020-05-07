@@ -5,6 +5,6 @@
     "lerna": "^3.20.2"
   },
   "scripts": { 
-    "publis": "lerna publish patch --yes"
+    "publis": "lerna version patch --yes"
   }
 }
