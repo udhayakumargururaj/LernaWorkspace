@@ -4,8 +4,11 @@
   "devDependencies": {
     "lerna": "^3.20.2"
   },
-  "scripts": { 
+  "scripts": {
     "pub": "lerna publish from-package",
-    "ver" : "lerna version --yes"
+    "ver": "lerna version --yes"
+  },
+  "dependencies": {
+    "module1-lerna-test-dum": "0.0.4"
   }
 }
