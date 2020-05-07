@@ -1,5 +1,5 @@
 {
-  "name": "module1",
+  "name": "module1-lerna-test-dum",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "d8b850d554c7709d3eb998466a21771d0344423f"
 }
