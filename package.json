@@ -5,7 +5,7 @@
     "lerna": "^3.20.2"
   },
   "scripts": {
-    "pub": "lerna publish patch --yes --exact"
+    "pub": "lerna publish prerelease --yes --exact"
   },
   "dependencies": {
     "module1-lerna-test-dum": "0.0.4"
