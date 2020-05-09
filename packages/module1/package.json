@@ -1,6 +1,6 @@
 {
   "name": "module1-lerna-test-dum",
-  "version": "0.0.8",
+  "version": "0.0.8-beta.0",
   "description": "",
   "main": "index.js",
   "scripts": {
